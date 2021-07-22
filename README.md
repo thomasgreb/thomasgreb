@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thomasgreb
-- 👀 I’m interested in plant development, stem cell regulation and cellular coordination
+- 👋 Hi, we are the Greb lab
+- 👀 interested in plant development, stem cell regulation, cell fate determination and cellular coordination
 - 📫 How to reach me: https://www.cos.uni-heidelberg.de/en/research-groups/developmental-physiology
 
 <!---
